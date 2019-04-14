@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BillBoard</string>
+    <string name="main_table">Summary table will be displayed here</string>
+    <string name="txt_ocr">OCR'ed text</string>
+</resources>
